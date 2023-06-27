@@ -25,7 +25,7 @@
     "is-there": "4.4.0",
     "lodash": "^4.12",
     "rss": "^1.2",
-    "semver": "^5.1.0",
+    "semver": "^7.5.2",
     "semver-stable": "^2.0.4",
     "superagent": "^3.3.0",
     "tarball-extract": "^0.0.3"
